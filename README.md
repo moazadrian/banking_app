@@ -1,2 +1,2 @@
 # banking_app
-# Starting now 🥇
+Starting now 🥇
